@@ -29,7 +29,7 @@ body,html{
 }
 .logo_blokc img{
     width: 134px;
-    height: fit-content;
+    height: max-content;
 }
 .dietary{
     width: 100%;
@@ -69,7 +69,7 @@ body,html{
 }
 .dietary_cont img{
     width: 50px;
-    height: fit-content;
+    height: max-content;
 }
 .dietary_cont h5{
     font-size: 15px;
@@ -107,7 +107,7 @@ body,html{
 }
 .dietary_1 img{
     width: 95px;
-    height: fit-content;
+    height: max-content;
 }
 .dietary_2{
     display: flex;
@@ -163,7 +163,7 @@ body,html{
 }
 .naturally_text img{
     width: 40px;
-    height: fit-content;
+    height: max-content;
 }
 .naturally_text h4{
     font-size: 24px;
@@ -191,7 +191,7 @@ body,html{
 }
 .enter_blokc img{
     width: 35%;
-    height: fit-content;
+    height: max-content;
 }
 .enter_cont{
     display: flex;
@@ -227,13 +227,13 @@ body,html{
 }
 .doctor_blokc img{
     width: 35%;
-    height: fit-content;
+    height: max-content;
 }
 .doctor_cont{
     display: flex;
     flex-direction: column;
     width: 60%;
-    height: fit-content;
+    height: max-content;
 }
 .doctor_cont h1{
     font-size: 48px;
@@ -275,7 +275,7 @@ body,html{
 }
 .stores_blokc img{
     width: 38%;
-    height: fit-content;
+    height: max-content;
 }
 .stores_cont{
     display: flex;
@@ -334,7 +334,7 @@ body,html{
 }
 .stores_2 img{
     width: 125px;
-    height: fit-content;
+    height: max-content;
 }
 .stores_2 h4{
     font-size: 20px;
@@ -357,7 +357,7 @@ body,html{
 }
 .image img{
     width: 30px;
-    height: fit-content;
+    height: max-content;
 }
 .before{
     width: 100%;
@@ -373,7 +373,7 @@ body,html{
 }
 .before_blokc img{
     width: 100px;
-    height: fit-content;
+    height: max-content;
 }
 .before_cont{
     display: flex;
@@ -388,7 +388,7 @@ body,html{
 }
 .before_cont img{
     width: 100%;
-    height: fit-content;
+    height: max-content;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
@@ -473,7 +473,7 @@ body,html{
 }
 .easy_cont img{
     width: 60px;
-    height: fit-content;
+    height: max-content;
 }
 .easy_cont h5{
     font-size: 24px;
@@ -542,7 +542,7 @@ footer{
 }
 .end_cont img{
     width: 134px;
-    height: fit-content;
+    height: max-content;
 }
 .end_1{
     display: flex;
@@ -589,7 +589,7 @@ footer{
 }
 .logo_blokc .hed{
     width: 60px;
-    height: fit-content;
+    height: max-content;
 }
 .priv{
     width: 100%;
@@ -1510,7 +1510,7 @@ footer{
     }
     .logo_blokc .mob_menu{
         width: 60px;
-        height: fit-content;
+        height: max-content;
     }
     .dietary_top_cont{
         display: none;
