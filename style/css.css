@@ -29,7 +29,7 @@ body,html{
 }
 .logo_blokc img{
     width: 134px;
-    height: max-content;
+    height: auto;
 }
 .dietary{
     width: 100%;
@@ -69,7 +69,7 @@ body,html{
 }
 .dietary_cont img{
     width: 50px;
-    height: max-content;
+    height: auto;
 }
 .dietary_cont h5{
     font-size: 15px;
@@ -107,7 +107,7 @@ body,html{
 }
 .dietary_1 img{
     width: 95px;
-    height: max-content;
+    height: auto;
 }
 .dietary_2{
     display: flex;
@@ -163,7 +163,7 @@ body,html{
 }
 .naturally_text img{
     width: 40px;
-    height: max-content;
+    height: auto;
 }
 .naturally_text h4{
     font-size: 24px;
@@ -191,7 +191,7 @@ body,html{
 }
 .enter_blokc img{
     width: 35%;
-    height: max-content;
+    height: auto;
 }
 .enter_cont{
     display: flex;
@@ -227,13 +227,13 @@ body,html{
 }
 .doctor_blokc img{
     width: 35%;
-    height: max-content;
+    height: auto;
 }
 .doctor_cont{
     display: flex;
     flex-direction: column;
     width: 60%;
-    height: max-content;
+    height: auto;
 }
 .doctor_cont h1{
     font-size: 48px;
@@ -275,7 +275,7 @@ body,html{
 }
 .stores_blokc img{
     width: 38%;
-    height: max-content;
+    height: auto;
 }
 .stores_cont{
     display: flex;
@@ -334,7 +334,7 @@ body,html{
 }
 .stores_2 img{
     width: 125px;
-    height: max-content;
+    height: auto;
 }
 .stores_2 h4{
     font-size: 20px;
@@ -357,7 +357,7 @@ body,html{
 }
 .image img{
     width: 30px;
-    height: max-content;
+    height: auto;
 }
 .before{
     width: 100%;
@@ -373,7 +373,7 @@ body,html{
 }
 .before_blokc img{
     width: 100px;
-    height: max-content;
+    height: auto;
 }
 .before_cont{
     display: flex;
@@ -388,7 +388,7 @@ body,html{
 }
 .before_cont img{
     width: 100%;
-    height: max-content;
+    height: auto;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
@@ -473,7 +473,7 @@ body,html{
 }
 .easy_cont img{
     width: 60px;
-    height: max-content;
+    height: auto;
 }
 .easy_cont h5{
     font-size: 24px;
@@ -542,7 +542,7 @@ footer{
 }
 .end_cont img{
     width: 134px;
-    height: max-content;
+    height: auto;
 }
 .end_1{
     display: flex;
@@ -589,7 +589,7 @@ footer{
 }
 .logo_blokc .hed{
     width: 60px;
-    height: max-content;
+    height: auto;
 }
 .priv{
     width: 100%;
@@ -708,7 +708,7 @@ footer{
 }
 .house img{
     height: 20px;
-    width: max-content;
+    width: auto;
 }
 .house p{
     font-size: 20px;
@@ -827,11 +827,11 @@ footer{
 .small_prev,.small_next{
     cursor: pointer;
     width: 11px;
-    height: max-content;
+    height: auto;
 }
 .small_slide_img{
     width: 95px;
-    height: max-content;
+    height: auto;
     margin-left: 5px;
     margin-right: 5px;
     cursor: pointer;
@@ -865,7 +865,7 @@ footer{
 }
 .faq_head img{
     height: 50px;
-    width: max-content;
+    width: auto;
 }
 .faq_block p{
     display: none;
@@ -910,11 +910,11 @@ footer{
 }
 .right_main img{
     height: 75px;
-    width: max-content;
+    width: auto;
 }
 .rewiev img{
     height: 16px;
-    width: max-content;
+    width: auto;
     margin-right: 10px;
 } 
 .rewiev p{
@@ -1015,7 +1015,7 @@ footer{
 }
 .left_open img{
     width: 100%;
-    height: max-content;
+    height: auto;
     margin-bottom: 20px;
 }
 .left_open h1{
@@ -1144,7 +1144,7 @@ footer{
 
 .right_main .a img{
     height: 27px;
-    width: max-content;
+    width: auto;
 }
 .right_main .a a{
     width: 440px;
@@ -1195,7 +1195,7 @@ footer{
 }
 .right_main .faq_head img{
     height: 50px;
-    width: max-content;
+    width: auto;
 }
 .faq_mob{
     display: none;
@@ -1229,7 +1229,7 @@ footer{
     position: absolute;
     z-index: 2;
     width: 241px;
-    height: max-content;
+    height: auto;
     right: -80px;
     bottom: -100px;
 }
@@ -1288,7 +1288,7 @@ footer{
 }
 .top_big_right img{
     width: 99px;
-    height: max-content;
+    height: auto;
 }
 .top_big_right_text{
     display: flex;
@@ -1309,7 +1309,7 @@ footer{
 }
 .top_big_right_review img{
     height: 16px;
-    width: max-content;
+    width: auto;
     margin-right: 10px;
 }
 .top_big_right_review p{
@@ -1366,14 +1366,14 @@ footer{
 }
 .bottom_big_right img{
     height: 22px;
-    width: max-content;
+    width: auto;
 }
 .big_main{
     margin-bottom: 100px;
    }
 .big_left img{
     width: 50%;
-    height: max-content;
+    height: auto;
 }
 .center_italic{
     width: 100%;
@@ -1411,7 +1411,7 @@ footer{
     border-bottom: none;
 }
 .big_left .faq_head{
-    height: max-content;
+    height: auto;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -1434,7 +1434,7 @@ footer{
     }
     .plus_block img{
         width: 158px;
-        height: max-content;
+        height: auto;
         right: -70px;
         bottom: -130px;
     }
@@ -1510,7 +1510,7 @@ footer{
     }
     .logo_blokc .mob_menu{
         width: 60px;
-        height: max-content;
+        height: auto;
     }
     .dietary_top_cont{
         display: none;
@@ -1667,12 +1667,12 @@ footer{
         margin-top: 30px;
     }
     .stores_blokc img{
-        width: max-content;
+        width: auto;
         height: 11px;
     }
     .stores_blokc .mob_img{
         width: 70%;
-        height: max-content;
+        height: auto;
         margin-bottom: -210px;
         margin-left: 5%;
     }
@@ -1742,7 +1742,7 @@ footer{
     }
     .rewiev img{
         height: 16px;
-        width: max-content;
+        width: auto;
     }
     .rewiev{
         width: 100%;
@@ -1910,7 +1910,7 @@ footer{
     width: 100%;
    }
    .right_main .faq_block .faq_head h1{
-    width: max-content;
+    width: auto;
    }
    .right_main .faq_block p{
     width: 100%;
